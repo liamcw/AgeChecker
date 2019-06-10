@@ -22,8 +22,7 @@ public class AgeChecker {
 		}
 
 		else {// Code in here executed when all conditions above have become false
-			System.out.println(
-					"You are juuuuust right - time to pay those taxes, son.");
+			System.out.println("You are juuuuust right - time to pay those taxes, son.");
 		}
 
 	}
