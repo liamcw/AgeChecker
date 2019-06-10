@@ -18,7 +18,6 @@ public class AgeChecker {
 
 		else if (age > 65) { // Condition is checked only if condition1 is false
 			System.out.println("You are TOO OLD to pay taxes. Congrats on surviving so long I guess.");
-			// Code in here executed when all conditions above have become false
 		}
 
 		else {// Code in here executed when all conditions above have become false
